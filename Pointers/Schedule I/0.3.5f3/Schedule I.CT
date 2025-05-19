@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>27</ID>
+      <Description>"Debit Pointer"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"GameAssembly.dll"+03AF6180</Address>
+      <Offsets>
+        <Offset>128</Offset>
+        <Offset>10</Offset>
+        <Offset>B8</Offset>
+        <Offset>20</Offset>
+        <Offset>240</Offset>
+        <Offset>50</Offset>
+        <Offset>90</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>41</ID>
+      <Description>"Cash Pointer"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"GameAssembly.dll"+03B00F88</Address>
+      <Offsets>
+        <Offset>38</Offset>
+        <Offset>48</Offset>
+        <Offset>10</Offset>
+        <Offset>478</Offset>
+        <Offset>D0</Offset>
+        <Offset>88</Offset>
+        <Offset>90</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>42</ID>
+      <Description>"potentials"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>37</ID>
+          <Description>"Cash Potential"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"GameAssembly.dll"+03ACA2C8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>48</Offset>
+            <Offset>10</Offset>
+            <Offset>478</Offset>
+            <Offset>78</Offset>
+            <Offset>590</Offset>
+            <Offset>78</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>38</ID>
+          <Description>"Cash Potential"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"GameAssembly.dll"+03ACA040</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>40</Offset>
+            <Offset>10</Offset>
+            <Offset>B8</Offset>
+            <Offset>98</Offset>
+            <Offset>3F0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description>"Cash Potential"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"GameAssembly.dll"+03B3B3C0</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>48</Offset>
+            <Offset>10</Offset>
+            <Offset>B8</Offset>
+            <Offset>20</Offset>
+            <Offset>190</Offset>
+            <Offset>78</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
