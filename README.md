@@ -4,8 +4,7 @@ Address Pointers for multiple games. Useful with Python, and c++ if you know how
 
 # How to Use
 
-As an example, this one is for programs pointing to DLLs (EX: javaw.exe->OpenAL64.dll)
-This example is using Cash from [Schedule I](https://github.com/LXanii/Game-Address-Pointers/blob/main/Pointers/Schedule%20I/0.3.5f3.bro)
+As an example, this one is for programs pointing to DLLs (EX: javaw.exe->OpenAL64.dll) | This example is using Cash from [Schedule I](https://github.com/LXanii/Game-Address-Pointers/blob/main/Pointers/Schedule%20I/0.3.5f3.bro)
 
 ```python
 
@@ -35,8 +34,7 @@ except Exception as e:
     print("Memory read failed:", e)
 ```
 
-For programs not pointing to DLLs
-This example prints out your money in HuniePop
+For programs not pointing to DLLs | This example prints out your money in HuniePop
 
 ```python
 
