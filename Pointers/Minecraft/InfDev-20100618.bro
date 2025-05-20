@@ -5,8 +5,8 @@
 
 // Pointers
 
-name; "Program.exe"+Base Offset, Offsets=[offset6, offset5, offset4, offset3, offset2, offset1]
+datatype name; "Program.exe"+Base Offset, Offsets=[offset6, offset5, offset4, offset3, offset2, offset1];
 
-X Position; "OpenAL64.dll"+0005C308, Offsets=[0x8, 0x8]
-Y Position; "OpenAL64.dll"+0005C308, Offsets=[0x8, 0x4]
-Z Position; "OpenAL64.dll"+0005C308, Offsets=[0x8, 0x0]
+float X Position; "OpenAL64.dll"+0005C308, Offsets=[0x8, 0x8];
+float Y Position; "OpenAL64.dll"+0005C308, Offsets=[0x8, 0x4];
+float Z Position; "OpenAL64.dll"+0005C308, Offsets=[0x8, 0x0];
