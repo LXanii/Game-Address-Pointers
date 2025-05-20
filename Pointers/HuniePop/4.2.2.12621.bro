@@ -11,7 +11,7 @@ int32_t cashDisplay; "HuniePop.exe"+0x95D15C, Offsets=[0x18, 0x40, 0x50, 0x8C, 0
 int32_t hunieBalance; "HuniePop.exe"+??????, Offsets=;
 int32_t hunieDisplay; "HuniePop.exe"+??????, Offsets=;
 
-int32_t currentAffection; "HuniePop.exe"+002620FC, Offsets=[0x40, 0x10, 0x10, 0x18, 0x5C, 0x48, 0xA0];
+int32_t currentAffection; "HuniePop.exe"+0x2620FC, Offsets=[0x40, 0x10, 0x10, 0x18, 0x5C, 0x48, 0xA0];
 int32_t currentAffectionDisplay; "HuniePop.exe"+??????, Offsets=;
 int32_t targetAffection; "HuniePop.exe"+??????, Offsets=;
 int32_t targetAffectionDisplay; "HuniePop.exe"+??????, Offsets=;
