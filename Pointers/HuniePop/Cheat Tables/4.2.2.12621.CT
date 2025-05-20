@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>92</ID>
+      <Description>"Money"</Description>
+      <Options moRecursiveSetValue="1"/>
+      <GroupHeader>1</GroupHeader>
+      <Address>0</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"Money Value"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"HuniePop.exe"+0x961080</Address>
+          <Offsets>
+            <Offset>68</Offset>
+            <Offset>14</Offset>
+            <Offset>14</Offset>
+            <Offset>6C</Offset>
+            <Offset>80</Offset>
+            <Offset>8BC</Offset>
+            <Offset>34</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>95</ID>
+          <Description>"Money Display"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"HuniePop.exe"+0095D15C</Address>
+          <Offsets>
+            <Offset>94</Offset>
+            <Offset>70</Offset>
+            <Offset>8</Offset>
+            <Offset>8C</Offset>
+            <Offset>50</Offset>
+            <Offset>40</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>108</ID>
+      <Description>"potentials"</Description>
+      <Options moHideChildren="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>112</ID>
+          <Description>"affectionprog"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"HuniePop.exe"+002620FC</Address>
+          <Offsets>
+            <Offset>A0</Offset>
+            <Offset>80</Offset>
+            <Offset>58</Offset>
+            <Offset>18</Offset>
+            <Offset>10</Offset>
+            <Offset>10</Offset>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>96</ID>
+          <Description>"money display"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"HuniePop.exe"+0095D15C</Address>
+          <Offsets>
+            <Offset>94</Offset>
+            <Offset>70</Offset>
+            <Offset>10</Offset>
+            <Offset>90</Offset>
+            <Offset>50</Offset>
+            <Offset>C8</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>97</ID>
+          <Description>"money display"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"HuniePop.exe"+0095D15C</Address>
+          <Offsets>
+            <Offset>94</Offset>
+            <Offset>70</Offset>
+            <Offset>10</Offset>
+            <Offset>90</Offset>
+            <Offset>50</Offset>
+            <Offset>78</Offset>
+            <Offset>C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>98</ID>
+          <Description>"money display"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"HuniePop.exe"+0095D15C</Address>
+          <Offsets>
+            <Offset>94</Offset>
+            <Offset>70</Offset>
+            <Offset>0</Offset>
+            <Offset>74</Offset>
+            <Offset>50</Offset>
+            <Offset>7C</Offset>
+            <Offset>10</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>99</ID>
+          <Description>"money display"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"HuniePop.exe"+0095D15C</Address>
+          <Offsets>
+            <Offset>94</Offset>
+            <Offset>70</Offset>
+            <Offset>0</Offset>
+            <Offset>74</Offset>
+            <Offset>50</Offset>
+            <Offset>78</Offset>
+            <Offset>C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>100</ID>
+          <Description>"money display"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"HuniePop.exe"+0095D15C</Address>
+          <Offsets>
+            <Offset>94</Offset>
+            <Offset>70</Offset>
+            <Offset>0</Offset>
+            <Offset>74</Offset>
+            <Offset>50</Offset>
+            <Offset>40</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>101</ID>
+          <Description>"money display"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"HuniePop.exe"+0095D15C</Address>
+          <Offsets>
+            <Offset>94</Offset>
+            <Offset>70</Offset>
+            <Offset>0</Offset>
+            <Offset>74</Offset>
+            <Offset>50</Offset>
+            <Offset>8</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>106</ID>
+          <Description>"money display"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"HuniePop.exe"+0083CB10</Address>
+          <Offsets>
+            <Offset>94</Offset>
+            <Offset>70</Offset>
+            <Offset>0</Offset>
+            <Offset>74</Offset>
+            <Offset>50</Offset>
+            <Offset>8</Offset>
+            <Offset>34</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>107</ID>
+          <Description>"money display"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"HuniePop.exe"+0060CD60</Address>
+          <Offsets>
+            <Offset>94</Offset>
+            <Offset>70</Offset>
+            <Offset>0</Offset>
+            <Offset>74</Offset>
+            <Offset>50</Offset>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>111</ID>
+      <Description>"affectionProgress"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"HuniePop.exe"+002620FC</Address>
+      <Offsets>
+        <Offset>A0</Offset>
+        <Offset>48</Offset>
+        <Offset>5C</Offset>
+        <Offset>18</Offset>
+        <Offset>10</Offset>
+        <Offset>10</Offset>
+        <Offset>40</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
