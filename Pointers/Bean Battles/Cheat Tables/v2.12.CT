@@ -3,7 +3,7 @@
   <CheatEntries>
     <CheatEntry>
       <ID>0</ID>
-      <Description>"gun1Ammo"</Description>
+      <Description>"gun2Ammo"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Byte</VariableType>
       <Address>"UnityPlayer.dll"+01513F18</Address>
@@ -32,6 +32,121 @@
         <Offset>68</Offset>
         <Offset>0</Offset>
       </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>55</ID>
+      <Description>"spawnGun"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>"UnityPlayer.dll"+015143C0</Address>
+      <Offsets>
+        <Offset>27C</Offset>
+        <Offset>228</Offset>
+        <Offset>38</Offset>
+        <Offset>28</Offset>
+        <Offset>B8</Offset>
+        <Offset>28</Offset>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>62</ID>
+      <Description>"menuValues"</Description>
+      <Options moHideChildren="1"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <GroupHeader>1</GroupHeader>
+      <Address>XP &amp; Coins</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>60</ID>
+          <Description>"xpValue"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>8 Bytes</VariableType>
+          <Address>"UnityPlayer.dll"+1505380</Address>
+          <Offsets>
+            <Offset>240</Offset>
+            <Offset>18</Offset>
+            <Offset>F0</Offset>
+            <Offset>1A8</Offset>
+            <Offset>A0</Offset>
+            <Offset>80</Offset>
+            <Offset>128</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>61</ID>
+          <Description>"coinsValue"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"UnityPlayer.dll"+1505380</Address>
+          <Offsets>
+            <Offset>26C</Offset>
+            <Offset>18</Offset>
+            <Offset>F0</Offset>
+            <Offset>1A8</Offset>
+            <Offset>A0</Offset>
+            <Offset>80</Offset>
+            <Offset>128</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>59</ID>
+      <Description>"menuColors"</Description>
+      <Options moHideChildren="1"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <GroupHeader>1</GroupHeader>
+      <Address>RGB</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>56</ID>
+          <Description>"menuColorR"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"UnityPlayer.dll"+14486D0</Address>
+          <Offsets>
+            <Offset>58</Offset>
+            <Offset>228</Offset>
+            <Offset>F0</Offset>
+            <Offset>18</Offset>
+            <Offset>158</Offset>
+            <Offset>C8</Offset>
+            <Offset>138</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>57</ID>
+          <Description>"menuColorG"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"UnityPlayer.dll"+14486D0</Address>
+          <Offsets>
+            <Offset>5C</Offset>
+            <Offset>228</Offset>
+            <Offset>F0</Offset>
+            <Offset>18</Offset>
+            <Offset>158</Offset>
+            <Offset>C8</Offset>
+            <Offset>138</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>58</ID>
+          <Description>"menuColorB"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"UnityPlayer.dll"+14486D0</Address>
+          <Offsets>
+            <Offset>60</Offset>
+            <Offset>228</Offset>
+            <Offset>F0</Offset>
+            <Offset>18</Offset>
+            <Offset>158</Offset>
+            <Offset>C8</Offset>
+            <Offset>138</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
